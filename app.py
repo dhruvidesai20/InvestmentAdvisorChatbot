@@ -211,7 +211,6 @@ def main():
             st.write("Extracted Information:")
             for key, value in extracted_info.items():
                 st.write(f"{key}: {', '.join(value)}")
-             # Analyze sentiment with the LLaMA model
             preferred_sectors = extracted_info.get("PREFERRED_SECTORS")
             top_stocks_df = fetch_stocks(preferred_sectors)
             st.write("Top 10 Stocks:")
