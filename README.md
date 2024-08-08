@@ -1,6 +1,5 @@
 # InvestmentAdvisorChatbot
-Guide to Build an Investment Strategy Chatbot
-in Streamlit
+Guide to Build an Investment Strategy Chatbot in Streamlit
 Ashutosh Agarwal | Ayush kumar Singh
 SOC - Advanced Investment Advisor Chatbot
 Introduction
